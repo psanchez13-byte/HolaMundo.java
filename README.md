@@ -28,7 +28,7 @@ Creación de este archivo README.md y captura de evidencias (imágenes) del proc
 Comentarios
 
 - Durante el desarrollo de la iteracion original llegamos a varios problemas por confusion con el nombre de la clase principal y creacion de repositorios personales esto genero muchos problemas al momento del merge.
-Debido a estos problemas eliminamos el repsoitorio original y empezamos de nuevo
+Debido a estos problemas eliminamos el repositorio original y empezamos de nuevo.
 
 Conclusion
 
